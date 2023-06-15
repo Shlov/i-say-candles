@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/i-say-candles/static/css/main.7acaea2f.css",
+    "main.js": "/i-say-candles/static/js/main.4639ba88.js",
+    "static/js/957.5a81d7aa.chunk.js": "/i-say-candles/static/js/957.5a81d7aa.chunk.js",
+    "static/js/770.0ff261b5.chunk.js": "/i-say-candles/static/js/770.0ff261b5.chunk.js",
+    "index.html": "/i-say-candles/index.html",
+    "main.7acaea2f.css.map": "/i-say-candles/static/css/main.7acaea2f.css.map",
+    "main.4639ba88.js.map": "/i-say-candles/static/js/main.4639ba88.js.map",
+    "957.5a81d7aa.chunk.js.map": "/i-say-candles/static/js/957.5a81d7aa.chunk.js.map",
+    "770.0ff261b5.chunk.js.map": "/i-say-candles/static/js/770.0ff261b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.4639ba88.js"
+  ]
+}
