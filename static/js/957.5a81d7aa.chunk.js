@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunki_say_candles=self.webpackChunki_say_candles||[]).push([[957],{957:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var s=t(184),c=function(){return(0,s.jsx)("div",{style:{height:"100vh",display:"flex",justifyContent:"center",alignItems:"center",fontSize:60,color:"#010101"},children:"I say candles"})},i=function(){return(0,s.jsx)(c,{})}}}]);
-//# sourceMappingURL=957.5a81d7aa.chunk.js.map
